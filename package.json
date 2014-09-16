@@ -24,6 +24,6 @@
         "express-session":"*",
         "cookie-parser":"*",
         "request":"*",
-        "node-util":"git+ssh://git@github.com:schematical/njax-util.git#master"
+        "njax-util":"git+ssh://git@github.com:schematical/njax-util.git#master"
     }
 }
