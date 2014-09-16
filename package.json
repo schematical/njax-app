@@ -23,6 +23,7 @@
         "aws-sdk":"*",
         "express-session":"*",
         "cookie-parser":"*",
-        "request":"*"
+        "request":"*",
+        "node-util":"git+ssh://git@github.com:schematical/njax-util.git#master"
     }
 }
