@@ -14,7 +14,6 @@
         "markdown": "*",
         "connect-multiparty": "*",
         "aws-lib": "*",
-        "socket.io": "*",
         "serve-static":"*",
         "body-parser":"*",
         "morgan":"*",
